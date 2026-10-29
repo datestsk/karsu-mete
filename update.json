@@ -1,0 +1,9 @@
+{
+  "packageName": "tr.karsumete.study",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/datestsk/karsu-mete/releases/download/v1.2.0/KARSU-METE_v1.2.0.apk",
+  "sha256": "4c90b0cfd40806e1b2ede29d5304f65433f39623b0086adb47eee2bbebb4c23a",
+  "notes": "Yeni PDF kitapları, soru bankaları, kitap içi soru-cevap kartları, test sesleri ve okuma konumu iyileştirmeleri."
+}
