@@ -4,7 +4,6 @@
   "versionName": "1.4.0",
   "minSdk": 26,
   "apkUrl": "https://github.com/datestsk/karsu-mete/releases/download/v1.4.0/KARSU-METE_v1.4.0.apk",
-  "sha256": "APK_DOSYASININ_GERCEK_SHA256_DEGERINI_BURAYA_YAZ",
-  "notes": "27 tarih sorusuna kaynaklı cevap eklendi. İlk 1452 inceleme sorusunun 687’si cevaplı; 765 soru ayrı inceleme bölümünde tutuluyor.",
-  "mandatory": true
+  "sha256": "IMZALI_APK_DOSYASININ_SHA256_DEGERI",
+  "notes": "Güncelleme adresi uygulamaya gömüldü. Yeni 10 kitaba özgün kapaklar eklendi. Uygulama simgesi ve uygulama içindeki logolar Atatürk logosuyla değiştirildi."
 }
